@@ -1,3 +1,3 @@
 # CabinJS-monokai
 
-monokai highlight color for CabinJS.
+monokai highlight color for [CabinJS](http://www.cabinjs.com/).
